@@ -1,0 +1,1 @@
+<h2>Password berhasil diganti!</h2>
